@@ -1,0 +1,24 @@
+
+h3{
+    text-align: left;
+    color: aliceblue;
+}
+.team{
+    background: url("login.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.75)),url(login.png);
+    background-size: contain;
+    list-style-type: none;
+    padding: 0;
+}
+.team ol li{
+    background-color: #75c4f14d;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.team li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: #000000;
+}
+a
